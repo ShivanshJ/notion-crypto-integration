@@ -1,7 +1,9 @@
 
 
 
-# Stocks Profits Tracker (+ Notion API Integration with Python)
+# Crypto Profits Tracker (+ Notion API Integration with Python)
+
+Track live crypto prices in Notion.
 
 1. There are 3 main steps to make this work
 2. You can track live crypto prices from CoinGecko API (so get the API key for it for a free account)
