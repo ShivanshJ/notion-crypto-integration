@@ -1,0 +1,3 @@
+MY_NOTION_SECRET_TOKEN: 
+DATABASE_ID: # get notion table's database ID from its URL
+COIN_API_KEY: # coin gecko api key
